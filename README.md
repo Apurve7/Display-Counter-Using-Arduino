@@ -29,4 +29,3 @@ Jumper Wires
 Software Requirements 💻
 Arduino IDE
 
-Circuit and Connections 🔌
